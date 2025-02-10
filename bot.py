@@ -12,11 +12,11 @@ from table_engine import start
 import date_encode
 
 VERSION, UPDATE_DATE = 'beta 0.1.0w', '03.02.2025'
-# TOKEN = '7410749887:AAFmq-H68knFTvKRyTRAsqmMQU7ONXEkNX0'
+TOKEN = '7410749887:AAFmq-H68knFTvKRyTRAsqmMQU7ONXEkNX0'
 # curl -X GET https://api.telegram.org/bot7410749887:AAFmq-H68knFTvKRyTRAsqmMQU7ONXEkNX0/getWebhookInfo
 # curl -X POST "https://api.telegram.org/bot7410749887:AAFmq-H68knFTvKRyTRAsqmMQU7ONXEkNX0/deleteWebhook"
 # curl -X POST "https://api.telegram.org/bot7410749887:AAFmq-H68knFTvKRyTRAsqmMQU7ONXEkNX0/setWebhook?url=https://example.com/webhook"
-TOKEN = '7271784948:AAGnxoMNxOaZgBgysmChV98TA8S3lLckkpM'  # TODO debbug bot
+# TOKEN = '7271784948:AAGnxoMNxOaZgBgysmChV98TA8S3lLckkpM'  # TODO debbug bot
 # curl -X GET https://api.telegram.org/bot7271784948:AAGnxoMNxOaZgBgysmChV98TA8S3lLckkpM/getWebhookInfo
 # curl -X POST "https://api.telegram.org/bot7271784948:AAGnxoMNxOaZgBgysmChV98TA8S3lLckkpM/deleteWebhook"
 # curl -X POST "https://api.telegram.org/bot7271784948:AAGnxoMNxOaZgBgysmChV98TA8S3lLckkpM/setWebhook?url=https://example.com/webhook"
